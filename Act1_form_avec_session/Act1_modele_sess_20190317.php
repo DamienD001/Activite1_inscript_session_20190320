@@ -1,3 +1,5 @@
+﻿// Code php ok
+// par contre j'aimerais que tu sépares le connexion à la base de donée et l'inscription.
 <?php
 	
 	const DB_HOST="localhost";
